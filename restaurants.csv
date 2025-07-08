@@ -1,0 +1,501 @@
+restaurant_id,name,cuisine,rating,price_range,location
+1,"Banks, Flynn and Joseph",Mexican,2.7,$$,Chicago
+2,"Garza, Melton and Powell",Mexican,4.4,$$,Los Angeles
+3,Frederick PLC,Japanese,3.5,$,Los Angeles
+4,"Sullivan, Gray and Price",Thai,4.4,$,Chicago
+5,Hurst-Frederick,Japanese,4.8,$$,Los Angeles
+6,Marshall-White,Chinese,3.1,$$$$,New York
+7,Johnson PLC,Thai,4.5,$$,New York
+8,"Clark, Clark and Jacobs",Chinese,2.6,$$,Chicago
+9,Harris-Marshall,Indian,4.7,$,Los Angeles
+10,"Lozano, Deleon and Hart",French,4.1,$$$$,New York
+11,"Sutton, Mitchell and Humphrey",Mexican,4.7,$$,New York
+12,Morrison-Bennett,Mexican,2.5,$$,San Francisco
+13,Jackson PLC,Indian,2.9,$$$,San Francisco
+14,Davis-Cox,Italian,3.5,$,New York
+15,Walsh-Kane,French,3.4,$$$,Chicago
+16,Hale and Sons,Thai,3.1,$$$,Houston
+17,"Barnett, Butler and Smith",Indian,3.5,$$,Houston
+18,"Dixon, Holt and Bradshaw",Thai,2.8,$,New York
+19,Nichols-Roberts,Japanese,3.5,$$$$,New York
+20,Scott-Hale,American,4.5,$$,New York
+21,Johnson Inc,Mexican,3.7,$$$$,Chicago
+22,"Russell, Escobar and Jones",Thai,2.5,$$$$,San Francisco
+23,Cook-Rivera,Chinese,3.6,$,New York
+24,Kemp-Bridges,Thai,2.6,$$$,New York
+25,"Hernandez, Spencer and Howard",American,4.9,$,Los Angeles
+26,"Stewart, Guzman and Brock",French,2.8,$$$$,Chicago
+27,"Pitts, Wallace and Graham",Mexican,4.3,$$,New York
+28,"Lambert, Kent and Chung",Japanese,4.9,$$$$,Los Angeles
+29,Foster-Le,Indian,4.6,$$,Houston
+30,Ward Ltd,Japanese,4.2,$$,New York
+31,"Smith, White and Myers",American,4.6,$,New York
+32,"Nelson, Perry and Murphy",Mexican,5.0,$$$$,Los Angeles
+33,Cruz-Clark,Thai,4.1,$$$,Chicago
+34,Freeman and Sons,French,3.9,$$$$,New York
+35,"Camacho, Brown and Garcia",Italian,4.1,$$$$,Houston
+36,"Klein, Campos and Howard",French,3.8,$$$,New York
+37,"Cunningham, Marsh and Carey",Italian,4.1,$,Houston
+38,"Roberts, Greene and Palmer",Chinese,3.6,$$$$,San Francisco
+39,Davis PLC,French,3.0,$$$$,San Francisco
+40,Horton Group,Mexican,2.8,$$,Houston
+41,Martinez-Young,Italian,2.7,$$$$,Chicago
+42,Harrison Inc,Indian,3.2,$$$,New York
+43,Riley-Singh,Mexican,2.6,$$,New York
+44,Crawford Inc,Indian,3.9,$,San Francisco
+45,Tucker-Koch,French,3.2,$$,Houston
+46,"Vang, Curry and Dalton",Indian,4.6,$$$,New York
+47,"Lin, Cherry and Patel",Italian,2.7,$$$,New York
+48,Stevenson Group,Mexican,3.1,$$,Chicago
+49,Robinson LLC,Thai,4.3,$,Los Angeles
+50,"Wilcox, Martinez and Carter",American,4.0,$$,San Francisco
+51,Grant-Murray,Italian,2.7,$,San Francisco
+52,Roberts-Johnson,Italian,4.7,$$,Los Angeles
+53,"Rodriguez, Mccoy and Key",Thai,4.7,$$$,New York
+54,Davis-Rose,Mexican,3.3,$$$$,Chicago
+55,Lucas Inc,Mexican,3.4,$$$$,Chicago
+56,Hoover-Wagner,Japanese,5.0,$,San Francisco
+57,Blair-Simpson,French,4.1,$,Chicago
+58,Nguyen Inc,Indian,3.8,$,Los Angeles
+59,Avila Inc,French,4.6,$$$,New York
+60,Romero Inc,Thai,3.2,$$,Los Angeles
+61,Campbell-Cortez,French,3.6,$$$,Houston
+62,"Hernandez, Patterson and Hamilton",Thai,3.2,$$$$,San Francisco
+63,"Mejia, Webb and Collins",Mexican,4.5,$,Chicago
+64,"Blankenship, Lee and Cooper",Indian,3.9,$$,Houston
+65,Miller-Jarvis,French,4.1,$$$$,Chicago
+66,Zimmerman-Haynes,Italian,3.1,$$$$,New York
+67,"Reed, Hull and Gonzales",Chinese,3.1,$$$$,New York
+68,Anthony-Alvarado,Japanese,3.7,$$$,New York
+69,Reyes-Williams,American,4.3,$,Chicago
+70,"Anderson, Hawkins and Conley",Italian,3.8,$$$$,Houston
+71,"Burnett, Clark and Gutierrez",Mexican,2.6,$,New York
+72,"Newman, Gallagher and Kennedy",American,4.7,$$$,Houston
+73,Lopez and Sons,Chinese,2.7,$$$$,Chicago
+74,Wright Group,Chinese,4.9,$$$,Houston
+75,Bates-Lopez,Indian,2.6,$$$,Chicago
+76,"Bowers, Robbins and Harrell",American,4.2,$,Chicago
+77,"Russell, Kelly and Duncan",Indian,2.7,$$$$,San Francisco
+78,"Blackburn, Elliott and Ward",Italian,4.8,$$$,Chicago
+79,"Martinez, Abbott and Stewart",Thai,3.7,$$$$,Chicago
+80,Santos and Sons,Thai,2.8,$,Los Angeles
+81,Baker Inc,Thai,3.4,$$$,New York
+82,Dalton and Sons,American,2.9,$,San Francisco
+83,Sutton-Garcia,Thai,2.9,$$$$,San Francisco
+84,"Thomas, Marsh and Shields",Italian,4.9,$$$$,San Francisco
+85,Smith-Cole,Indian,3.6,$,Los Angeles
+86,"Daniels, Bright and Chung",American,4.5,$$,Chicago
+87,Garcia Ltd,Indian,4.1,$$$,New York
+88,Palmer LLC,American,4.2,$$$$,Houston
+89,"Martin, Shields and Torres",Indian,2.8,$$$$,Chicago
+90,Allen Inc,Chinese,3.1,$$$,Los Angeles
+91,Armstrong-Martin,Indian,4.5,$,Chicago
+92,Sanchez Inc,Thai,4.9,$,Chicago
+93,"Tucker, Bailey and Perry",Chinese,3.2,$,Los Angeles
+94,Hayes PLC,Indian,3.2,$$,San Francisco
+95,Sampson-Li,American,3.7,$$,San Francisco
+96,Herrera LLC,American,5.0,$$$$,New York
+97,"Lindsey, Hamilton and White",Japanese,3.2,$,New York
+98,"Smith, Sanchez and Moran",American,3.5,$$$,San Francisco
+99,Huff-Kirk,Mexican,4.7,$$$$,Houston
+100,Bishop-Waller,Italian,2.5,$$$,Chicago
+101,Gutierrez and Sons,American,2.6,$$$$,Houston
+102,"Figueroa, Sanford and Dennis",Chinese,4.0,$$,Chicago
+103,Scott-Reid,Japanese,4.8,$$$$,San Francisco
+104,Morton-Schneider,American,3.1,$$,New York
+105,Taylor-Cooke,Mexican,3.7,$$$$,New York
+106,"Smith, Stein and Wallace",Thai,3.6,$,Houston
+107,"Newman, Ferguson and Ford",Chinese,3.7,$$$,New York
+108,Mcgee-Cox,Mexican,4.1,$,San Francisco
+109,Cuevas Ltd,Thai,3.7,$$$$,Houston
+110,Smith Group,French,3.6,$$$$,Chicago
+111,Kelly LLC,French,3.7,$$$$,New York
+112,Elliott-Black,Chinese,4.0,$$,Los Angeles
+113,Gilbert-Martin,Indian,3.8,$$$,New York
+114,Morgan-Clark,Italian,4.6,$$$,Chicago
+115,"Maynard, Huff and Jackson",Japanese,2.6,$$$$,Houston
+116,"Lloyd, Ewing and Gregory",Italian,4.6,$$$$,Chicago
+117,Poole and Sons,Mexican,4.6,$$,Los Angeles
+118,Erickson-Gray,Thai,3.2,$,San Francisco
+119,"Schaefer, Clark and Perkins",Italian,3.7,$,New York
+120,Clark-Lewis,Thai,3.6,$$$,Houston
+121,"Brown, Johnson and Zimmerman",Thai,3.0,$$,San Francisco
+122,Garner and Sons,Mexican,3.5,$$$$,Chicago
+123,Baker Group,Mexican,2.6,$$$,Houston
+124,"Chavez, Aguilar and Howard",Mexican,3.2,$$,San Francisco
+125,"Pearson, Martin and Torres",Italian,4.5,$,Houston
+126,Hartman PLC,French,3.2,$$,Los Angeles
+127,Watson and Sons,Mexican,4.5,$,Los Angeles
+128,Briggs-Olsen,Japanese,3.8,$$,New York
+129,"Garcia, Johnson and Whitney",Italian,4.7,$$$,New York
+130,"Cox, Johnson and Wood",Mexican,3.9,$,Los Angeles
+131,Velez-Lambert,American,2.6,$$$,Houston
+132,"Fisher, Estes and Bowman",Thai,4.2,$$$,Los Angeles
+133,"Parker, Cox and Sims",Japanese,2.6,$,New York
+134,Mccarthy-Banks,Mexican,3.6,$,Los Angeles
+135,Foster-Henderson,Chinese,4.8,$$$$,Los Angeles
+136,Lee-Kelley,Thai,2.9,$$$$,Houston
+137,Duffy LLC,Thai,3.5,$$$$,San Francisco
+138,"Patel, Floyd and Hunter",Mexican,4.3,$$$,New York
+139,"Johnson, Mccall and Jackson",French,4.7,$$$,Houston
+140,Sanchez Ltd,Indian,4.2,$$$$,Los Angeles
+141,Mccann Ltd,French,3.1,$$$,Los Angeles
+142,White LLC,Mexican,4.2,$$$,San Francisco
+143,Burke-James,Thai,3.2,$,New York
+144,Reeves Inc,Japanese,4.3,$,New York
+145,"Mendoza, Stephens and Mitchell",Chinese,4.9,$$$,Chicago
+146,Henderson Group,Japanese,4.3,$$$$,New York
+147,Thomas and Sons,Japanese,4.7,$$,San Francisco
+148,Wilson-Carlson,Thai,2.5,$$$$,Chicago
+149,Stewart-Smith,French,4.3,$$,Chicago
+150,Walsh Ltd,Chinese,4.6,$$$$,Los Angeles
+151,James-Ramsey,Italian,2.6,$,Los Angeles
+152,Bray LLC,American,4.7,$$$,New York
+153,Berger and Sons,Thai,3.1,$$$,Chicago
+154,"Bolton, Mills and Bennett",Mexican,4.2,$,Los Angeles
+155,"White, Williams and Perry",Italian,4.5,$$,San Francisco
+156,Andrews and Sons,American,4.2,$$,Los Angeles
+157,Oneal-Soto,Mexican,2.7,$$,Los Angeles
+158,Ewing-Mccann,Japanese,4.0,$,Chicago
+159,"Miller, Young and Harris",Indian,3.9,$$,Chicago
+160,Norman Inc,Mexican,4.8,$,Houston
+161,Sullivan-Bradley,Chinese,3.5,$$$$,San Francisco
+162,"Montgomery, White and Carter",Chinese,3.3,$$$$,Chicago
+163,Warner-Villanueva,Indian,4.4,$,New York
+164,Gonzales Inc,Italian,3.5,$$$,San Francisco
+165,Cooper Group,American,4.1,$$$$,San Francisco
+166,Johnson Inc,Mexican,4.1,$$,Chicago
+167,"Calhoun, Meyer and Walters",Chinese,4.7,$,San Francisco
+168,Bennett-Taylor,Italian,4.0,$$,Chicago
+169,Kent LLC,Indian,3.8,$$,Los Angeles
+170,"Stark, Ingram and Burns",French,2.8,$$$,Houston
+171,"Scott, Johnson and Greene",Thai,2.8,$$,Los Angeles
+172,Perkins-Reyes,French,2.9,$$$,Chicago
+173,"Long, Myers and Choi",French,2.9,$$$$,Chicago
+174,"Hunt, Johnson and Gutierrez",Chinese,4.1,$,Los Angeles
+175,Hood Group,Japanese,4.4,$$,New York
+176,Thomas and Sons,Japanese,3.8,$,New York
+177,"Ayala, Hernandez and Maldonado",Indian,4.6,$$,New York
+178,Cummings Group,Mexican,5.0,$,Chicago
+179,Diaz-Wu,Japanese,4.6,$$,San Francisco
+180,Turner PLC,French,4.2,$$,Chicago
+181,Hunt-Richardson,Japanese,3.8,$$,San Francisco
+182,"Medina, Wilson and Robinson",French,3.6,$$,Los Angeles
+183,"Johnson, Raymond and Conway",American,2.7,$$,Houston
+184,"Jones, Jones and Gardner",Chinese,3.5,$$,San Francisco
+185,"Jones, Myers and Tran",Chinese,4.8,$$,New York
+186,Morton-Pacheco,Mexican,4.5,$$,Chicago
+187,Waters LLC,Japanese,3.0,$$,Los Angeles
+188,"Jennings, Aguilar and Jimenez",Japanese,3.7,$,New York
+189,Robinson Group,Thai,4.5,$$$,Los Angeles
+190,"Santos, Kelly and Davidson",Italian,2.7,$$,Houston
+191,"Carpenter, Dunn and Myers",American,3.5,$$$,Chicago
+192,Davis LLC,Chinese,4.6,$$,Chicago
+193,"Obrien, Pearson and Young",American,3.5,$$,Houston
+194,Grant Group,Chinese,2.7,$,Chicago
+195,"Dougherty, Jordan and Solomon",American,3.9,$$$$,San Francisco
+196,Douglas-Carter,Indian,4.7,$$$$,Los Angeles
+197,Reynolds-Marshall,French,4.0,$,New York
+198,Shelton Ltd,Chinese,3.1,$$$,Houston
+199,Wolf Group,American,3.5,$$$$,San Francisco
+200,Sanchez-Williams,Japanese,3.6,$,New York
+201,"Wolfe, Jones and Chavez",Italian,3.9,$,New York
+202,Gonzalez Ltd,Indian,4.4,$$$$,Houston
+203,"Padilla, Neal and Duncan",Indian,2.7,$$$,San Francisco
+204,Brown and Sons,Italian,4.7,$,New York
+205,Rodriguez-Evans,American,2.5,$$,New York
+206,Huerta LLC,Japanese,3.4,$$$,San Francisco
+207,Choi PLC,Mexican,2.6,$$$,Chicago
+208,Hughes PLC,Italian,3.5,$$$$,New York
+209,"York, Smith and Duffy",American,3.8,$$$$,Los Angeles
+210,Klein-Taylor,Italian,3.8,$$,San Francisco
+211,"Lawson, Murphy and Williams",Italian,2.9,$,New York
+212,"Dyer, Carney and Thomas",Chinese,4.1,$$$$,Houston
+213,Davis-Gilbert,American,2.6,$$$$,Los Angeles
+214,Salazar-Davis,Mexican,4.4,$$$,New York
+215,Zhang and Sons,French,4.9,$$$$,Los Angeles
+216,"Hicks, Roberts and Griffin",Chinese,3.3,$$$$,Los Angeles
+217,Ramirez-Frank,Italian,3.8,$$$$,Chicago
+218,Perez PLC,French,3.4,$$$$,Los Angeles
+219,Calderon and Sons,Thai,2.5,$$$,Chicago
+220,"Graham, Hall and Hancock",French,3.5,$$,San Francisco
+221,Ramsey and Sons,Italian,4.5,$$,Chicago
+222,Phelps-Gilmore,Italian,4.0,$,Houston
+223,Price-Smith,Japanese,2.8,$$$$,New York
+224,Peck Inc,American,4.6,$$$,San Francisco
+225,Lowe Group,American,3.8,$,San Francisco
+226,"Reynolds, Scott and Santos",Chinese,4.6,$,Houston
+227,"Hicks, Brown and Matthews",Mexican,4.0,$$,Chicago
+228,Lee and Sons,Chinese,3.9,$$$,New York
+229,"Snyder, Rodriguez and Luna",Indian,2.8,$$$,Chicago
+230,Perez Group,Italian,2.9,$$$,Los Angeles
+231,Shannon-Hicks,French,4.9,$$,Chicago
+232,"Bass, Spears and Brooks",Thai,3.1,$$,San Francisco
+233,"Horton, Smith and Johnson",Italian,4.9,$$,New York
+234,"Morrow, Williams and Snyder",Italian,3.8,$$,Chicago
+235,Perry-Medina,Chinese,2.8,$$,New York
+236,Stephens PLC,Thai,2.7,$$$$,New York
+237,Martinez-Nguyen,Thai,3.0,$$$$,Los Angeles
+238,"Young, Davis and Dean",Thai,4.8,$$$,Los Angeles
+239,Stevens LLC,Chinese,3.5,$,San Francisco
+240,Kim-Allen,Italian,3.5,$$$,Houston
+241,"Mercer, Gray and Quinn",Chinese,3.3,$,New York
+242,Hall-Nelson,American,2.9,$$,Houston
+243,Anderson-Oconnor,American,3.7,$,San Francisco
+244,"Underwood, Reed and Romero",Chinese,2.8,$$$,New York
+245,Preston PLC,Thai,4.6,$$$,New York
+246,Cisneros Inc,Japanese,3.4,$,Houston
+247,"Gutierrez, Hernandez and George",Italian,3.4,$$$$,Chicago
+248,Miller PLC,Chinese,3.7,$$,Los Angeles
+249,"Barnett, Lynch and Harris",Chinese,3.6,$$,Chicago
+250,Lara Inc,Chinese,5.0,$$$,Houston
+251,Smith-Davis,Japanese,3.9,$$$$,Los Angeles
+252,Snyder Inc,Japanese,2.7,$,Chicago
+253,"Weaver, Weeks and Scott",Indian,4.0,$$,Los Angeles
+254,"Cook, Smith and Robinson",American,2.9,$$$$,New York
+255,Long-Allen,French,2.6,$$,Chicago
+256,Vance PLC,Thai,4.9,$$$$,Los Angeles
+257,Carroll-Kim,Mexican,4.4,$$$$,Los Angeles
+258,Willis-Howard,Japanese,5.0,$$$,Los Angeles
+259,Peterson PLC,French,3.7,$$,Chicago
+260,Estrada-Hardin,Japanese,3.8,$,San Francisco
+261,"Daugherty, Christian and Bailey",Thai,2.9,$$$,Chicago
+262,Williams and Sons,Mexican,3.1,$$$,Houston
+263,White LLC,Indian,4.6,$,Chicago
+264,"Munoz, Jackson and Wall",Chinese,3.4,$$$,Los Angeles
+265,Mullen and Sons,Indian,4.6,$$$$,New York
+266,Pruitt PLC,Japanese,4.3,$$$$,Chicago
+267,Stout Group,Indian,2.9,$$,Chicago
+268,Brown PLC,French,3.8,$$,Los Angeles
+269,Owens-Cummings,Italian,4.2,$,New York
+270,"Wolfe, Molina and Barnes",Japanese,3.1,$$,New York
+271,Smith PLC,Japanese,4.6,$$$$,Houston
+272,"Rivera, Price and Snow",French,3.9,$,Chicago
+273,"Greer, Davis and Pierce",American,2.9,$,New York
+274,Collins Inc,Mexican,4.0,$$,New York
+275,"Perez, Le and Boyd",Chinese,5.0,$$$$,San Francisco
+276,"Thompson, Stephens and Hill",French,2.9,$,San Francisco
+277,Davis-Harris,Mexican,4.5,$$$$,New York
+278,Cain-Neal,Thai,3.0,$$$$,Houston
+279,Garcia PLC,Mexican,4.5,$$$$,New York
+280,Valdez and Sons,Thai,4.3,$$,Los Angeles
+281,Williams-Jones,French,3.3,$$$,Chicago
+282,Mendez Group,Japanese,3.3,$$$,Houston
+283,Martin-Shepard,Japanese,4.5,$,Los Angeles
+284,Schmidt-Henderson,American,3.7,$$$$,Houston
+285,Smith Ltd,French,4.3,$$,Los Angeles
+286,Campbell-Fisher,Thai,2.9,$$$$,Chicago
+287,Rogers-Moore,Mexican,4.6,$$$$,Chicago
+288,Thompson LLC,Mexican,4.3,$$,San Francisco
+289,"Moon, Johnson and Jacobson",Thai,4.8,$$$,Los Angeles
+290,Ray-Gonzales,Indian,2.8,$$$$,San Francisco
+291,"Powell, Montgomery and Barnes",American,4.0,$$$$,Los Angeles
+292,"Monroe, Clark and Soto",Italian,4.0,$$$,San Francisco
+293,Ellis PLC,Japanese,3.4,$$,Chicago
+294,"Lopez, Guerra and Brown",Chinese,3.6,$,Houston
+295,Luna and Sons,Mexican,2.6,$$$,San Francisco
+296,"Merritt, Mcconnell and Nicholson",Chinese,4.4,$,Los Angeles
+297,Moore LLC,Italian,3.9,$,Los Angeles
+298,Cobb-Mccoy,French,2.6,$$$,Chicago
+299,Lopez and Sons,Chinese,4.2,$$$$,Los Angeles
+300,Oliver-Golden,Italian,3.7,$,New York
+301,Cooper and Sons,Japanese,2.6,$,Houston
+302,"Jacobs, Lopez and Stone",Thai,4.9,$$,San Francisco
+303,Greene-Hall,Indian,4.9,$$$$,Houston
+304,"Marsh, Butler and Adams",Japanese,3.8,$,Chicago
+305,Ruiz Inc,Mexican,2.7,$$,San Francisco
+306,Potter Ltd,Italian,4.4,$$$$,San Francisco
+307,Stewart Ltd,Chinese,3.7,$$$,New York
+308,Swanson-Bennett,Mexican,3.3,$$$,Chicago
+309,"Davis, Pope and Lewis",Indian,3.7,$$,Los Angeles
+310,"Ruiz, Huang and Williams",Thai,3.8,$$$,New York
+311,Dunn-Ball,French,3.9,$,New York
+312,Robinson Group,Mexican,3.6,$$$$,Houston
+313,Hernandez PLC,French,4.0,$,Houston
+314,Levine-Cantu,Italian,4.8,$,Houston
+315,Herrera-Hernandez,Indian,3.4,$$$,New York
+316,Morse Inc,Chinese,4.3,$,Los Angeles
+317,Olson LLC,Indian,4.7,$$$,San Francisco
+318,"Castillo, House and Christensen",Indian,3.6,$$$$,Houston
+319,Walker Ltd,American,3.6,$$$$,Los Angeles
+320,"Payne, Davis and Russell",Indian,4.0,$,Chicago
+321,"Martinez, Shepherd and Hunter",Indian,4.0,$$,Houston
+322,Johnson-Stevens,Japanese,4.5,$$$,San Francisco
+323,Smith Group,Mexican,3.7,$$$,Chicago
+324,"Daniels, Rowe and Hart",Chinese,5.0,$,Chicago
+325,Miller and Sons,Japanese,2.6,$$$,San Francisco
+326,Frey Inc,Japanese,2.5,$$$,Houston
+327,Stewart and Sons,Mexican,4.1,$$,New York
+328,Cox-Ross,Mexican,3.2,$$,San Francisco
+329,Sanders-Ortega,Italian,3.1,$,San Francisco
+330,Coffey Inc,Mexican,3.3,$$,San Francisco
+331,Smith LLC,American,3.1,$,Chicago
+332,Chase-Neal,American,2.6,$$$$,Los Angeles
+333,Harper Ltd,Japanese,4.9,$,New York
+334,"Stewart, Ross and Maxwell",French,3.1,$$$$,Houston
+335,"Bean, Pham and Porter",Italian,4.3,$,Houston
+336,Mayo Inc,French,4.4,$$$,Los Angeles
+337,Romero Group,French,4.8,$$,San Francisco
+338,"Herrera, Woods and Dixon",Japanese,2.6,$$$$,New York
+339,"Bernard, Lane and Mitchell",Thai,4.7,$,Houston
+340,Wade-Rodriguez,Japanese,3.8,$$,Houston
+341,Vasquez-Perry,Chinese,4.1,$,San Francisco
+342,Lee-Holland,Chinese,4.1,$$,Los Angeles
+343,"Harris, Mendoza and Blackburn",Mexican,4.5,$$,New York
+344,"Williams, Gonzalez and Price",Mexican,3.3,$,Los Angeles
+345,"Taylor, Turner and Thomas",Thai,4.3,$$$$,Los Angeles
+346,Hebert Inc,Mexican,3.8,$$$$,New York
+347,Stanley LLC,Chinese,4.5,$$$,New York
+348,"Parsons, Martin and Fields",French,5.0,$$,Houston
+349,"Moody, Randall and Dixon",Japanese,3.0,$$$,Houston
+350,"Morris, Page and Jones",Indian,5.0,$$$,New York
+351,Ho LLC,American,2.7,$,Chicago
+352,Williams-Cox,Indian,2.5,$,Houston
+353,"David, Maldonado and Mcbride",Indian,2.6,$,Chicago
+354,Diaz Inc,Chinese,3.4,$$,New York
+355,Wilson LLC,Indian,4.1,$,Houston
+356,Cooper PLC,Japanese,2.7,$,Los Angeles
+357,Li LLC,Thai,2.5,$$,New York
+358,Brooks-Gibson,Italian,4.8,$$,San Francisco
+359,Hicks-Caldwell,Mexican,4.6,$$$$,Chicago
+360,"Arellano, Lane and Roberts",Italian,4.5,$,New York
+361,Anderson Group,French,4.7,$,New York
+362,Kelly LLC,Japanese,4.3,$,Houston
+363,Suarez PLC,Japanese,2.8,$$$$,Houston
+364,Kim-Gonzales,American,3.5,$,Houston
+365,"Coleman, Jones and Thomas",Japanese,4.3,$$$$,San Francisco
+366,"Johnson, Cohen and Johnson",Mexican,3.2,$$$,Houston
+367,"Jennings, Dixon and Tucker",Japanese,4.2,$$$$,New York
+368,"Marshall, Mora and Morgan",Indian,2.6,$$$,Houston
+369,Stevenson-Andrews,American,3.3,$,Los Angeles
+370,Navarro-Coleman,Mexican,3.9,$$$,Houston
+371,"Alvarez, Hudson and Hawkins",Thai,4.1,$$$$,San Francisco
+372,"Oliver, Drake and Taylor",Thai,3.9,$$,Los Angeles
+373,Gomez-Sanders,Thai,4.2,$$$,New York
+374,Schwartz-Aguilar,Thai,2.5,$$$,New York
+375,Flowers Inc,Indian,2.8,$,Chicago
+376,Parrish-Smith,Japanese,4.7,$$$$,Los Angeles
+377,Nunez-Ramos,Italian,4.2,$$$,Chicago
+378,Stone PLC,Mexican,2.8,$$$,Los Angeles
+379,Miller LLC,Indian,4.6,$$$,Los Angeles
+380,"Tucker, Nixon and Green",Thai,3.1,$$$,San Francisco
+381,Salinas LLC,French,3.7,$$,Chicago
+382,"Beck, Lawson and Bailey",Japanese,2.9,$$$$,San Francisco
+383,Hayes and Sons,Italian,4.3,$,Los Angeles
+384,"Ramsey, Roberson and Gutierrez",French,4.2,$,New York
+385,Horn-Gonzalez,American,3.0,$$,Los Angeles
+386,Schmidt-Huffman,French,4.7,$$$$,San Francisco
+387,Stevenson Ltd,American,3.5,$$$,Chicago
+388,Robinson-Carter,American,3.2,$$,Chicago
+389,Morton-White,Thai,2.9,$$$$,San Francisco
+390,"Walsh, Whitaker and Miller",American,3.2,$$$,Chicago
+391,Ramirez Ltd,Chinese,2.6,$$,Houston
+392,"Melendez, Mays and Palmer",Mexican,4.0,$$$$,New York
+393,Wallace-Jones,Mexican,4.6,$,New York
+394,Smith-Gross,Thai,3.9,$,New York
+395,Parker-Mckinney,Chinese,3.0,$$$$,Chicago
+396,Sanchez Group,French,2.6,$,Chicago
+397,Herman-Goodman,Indian,3.0,$$$$,Los Angeles
+398,"Dixon, Garrett and Clark",French,3.5,$$$,Los Angeles
+399,Nelson-Trevino,Japanese,4.4,$$$$,New York
+400,"Miles, Esparza and Hahn",Indian,3.0,$$$,Houston
+401,Hernandez Ltd,American,4.3,$$,Los Angeles
+402,Small Group,Italian,4.7,$$$$,Los Angeles
+403,Graham LLC,Indian,3.6,$$,Chicago
+404,Smith Ltd,Italian,4.6,$,Houston
+405,"Green, Rogers and Villanueva",Mexican,3.9,$$$,New York
+406,"Stewart, Richardson and Farmer",Italian,4.1,$$$$,Los Angeles
+407,Hudson-Perry,Mexican,3.8,$$,Houston
+408,Christensen-Perkins,Chinese,3.7,$$$,Houston
+409,Meadows Inc,Chinese,3.1,$$$,New York
+410,White Inc,Thai,3.3,$,Houston
+411,Cole Inc,Thai,3.2,$,Houston
+412,"Morgan, Wilson and Moore",American,3.9,$$$,Houston
+413,"Brooks, Mckee and Martinez",Indian,2.8,$$$,Los Angeles
+414,Burch Group,American,4.8,$$$$,New York
+415,"Nichols, Finley and Wright",Mexican,4.3,$$$,Houston
+416,Hernandez-Smith,American,3.5,$$$$,Houston
+417,Caldwell-Kelly,Italian,2.9,$$$,Los Angeles
+418,Cannon-Henson,Mexican,4.7,$,New York
+419,"Clark, Richards and Hernandez",Thai,4.6,$$$$,Chicago
+420,"Strickland, Hill and Wilson",Chinese,4.3,$$,Los Angeles
+421,Schultz Group,Thai,3.2,$,New York
+422,Welch Ltd,Indian,3.5,$$$$,Houston
+423,Hart PLC,Mexican,2.8,$$$$,New York
+424,"Lane, Lee and Thomas",Mexican,3.0,$$,New York
+425,Harmon and Sons,Italian,4.5,$$$$,New York
+426,"Castillo, Hunter and Blanchard",Indian,4.3,$$$,Chicago
+427,"Knox, Smith and Thomas",Chinese,4.0,$$,New York
+428,"Payne, Schroeder and Ryan",French,4.7,$,Chicago
+429,Marks Inc,Mexican,4.0,$,Houston
+430,Calderon-Newman,Mexican,3.7,$$$,Chicago
+431,Clements-Wyatt,Italian,3.4,$,Houston
+432,Williams-Davis,American,4.9,$$$$,Houston
+433,Dixon-Burgess,Japanese,2.7,$$$$,Chicago
+434,Bradshaw-Velazquez,Chinese,4.8,$$$,Los Angeles
+435,Brown and Sons,Thai,4.6,$,San Francisco
+436,Lara LLC,Indian,2.8,$,New York
+437,Phillips LLC,Mexican,3.9,$$$,San Francisco
+438,Robinson-Santos,Mexican,4.7,$$,New York
+439,Martin-Craig,Thai,3.9,$,New York
+440,"Sparks, Wallace and Houston",Chinese,4.8,$$,Houston
+441,"Sexton, Hansen and Torres",Japanese,4.9,$,New York
+442,"Williams, Marks and Howard",American,3.6,$,New York
+443,"Meadows, Williams and Thomas",Mexican,3.4,$,Chicago
+444,White-Chavez,Japanese,4.8,$,San Francisco
+445,Santos Group,Chinese,4.2,$$$$,Chicago
+446,Combs-Johnson,Thai,2.8,$$,New York
+447,"Barnes, Cook and Roberts",Italian,2.6,$$,Houston
+448,"Douglas, Morrow and Quinn",American,3.9,$,Chicago
+449,Williams-Foster,Indian,4.8,$,Chicago
+450,"Parrish, Kelly and Rodriguez",Mexican,4.6,$$,Los Angeles
+451,"Campbell, Lynch and White",Chinese,4.2,$$$$,New York
+452,Brown-Jennings,Italian,2.8,$$$,Houston
+453,"Wright, Nelson and Patterson",Indian,3.1,$$$,Chicago
+454,"Phillips, Stanley and Martin",French,4.7,$$,Chicago
+455,"Davis, Reid and Morales",Chinese,3.0,$,Houston
+456,Hernandez and Sons,Chinese,3.2,$,New York
+457,"Harris, Jackson and Donaldson",Indian,2.8,$$$$,Los Angeles
+458,"Nelson, Powell and Cook",Italian,4.2,$$$,Chicago
+459,"Nichols, Patrick and Miller",French,4.9,$$$$,Los Angeles
+460,Parker Inc,Japanese,3.2,$$$,San Francisco
+461,Nelson-Watson,Japanese,3.7,$$,New York
+462,Johnson Inc,Thai,4.1,$$$,San Francisco
+463,"Brooks, Wilson and Green",Italian,5.0,$$$$,San Francisco
+464,"Lee, Brewer and Jenkins",American,2.8,$$$$,San Francisco
+465,Daniels-Patterson,Mexican,3.7,$$$$,New York
+466,Wright-Shelton,Indian,3.5,$$,New York
+467,Lewis and Sons,Thai,4.7,$$$,Houston
+468,"Reilly, Smith and Reynolds",French,3.7,$$$,Los Angeles
+469,"Porter, Anderson and Gilmore",Indian,2.8,$$$$,Los Angeles
+470,"Lewis, Jones and Santiago",Indian,4.1,$$$,Houston
+471,Carlson-Garrett,Italian,4.4,$,Houston
+472,Jacobson LLC,Mexican,2.5,$,San Francisco
+473,Jackson-Tucker,American,4.6,$,Houston
+474,Johnson PLC,Japanese,3.0,$$$,Chicago
+475,Bradshaw-Johnson,Chinese,3.9,$$,Los Angeles
+476,Cervantes and Sons,Chinese,3.5,$$,Houston
+477,"Nichols, Brown and Long",Indian,4.3,$$,Chicago
+478,Davis-King,Japanese,3.4,$$,Chicago
+479,Jones-Hood,Japanese,4.7,$,Chicago
+480,"Li, Gentry and Hall",Mexican,4.3,$,Chicago
+481,Jensen-Salazar,French,4.1,$$$$,San Francisco
+482,"Kelly, Jones and Hunt",French,4.5,$$$,Chicago
+483,"Duncan, Nicholson and Hickman",Thai,4.4,$$$,San Francisco
+484,"Reid, Caldwell and Ortiz",Italian,2.6,$$,San Francisco
+485,Hoover Group,Mexican,3.5,$,Chicago
+486,Ross-Duran,Mexican,4.8,$$,Los Angeles
+487,Caldwell PLC,Italian,2.8,$$$$,Chicago
+488,Rice-Peters,Japanese,4.3,$$$,Chicago
+489,"Woods, Lynch and Rodriguez",French,4.9,$$$,Chicago
+490,Ferguson LLC,French,2.6,$$,Los Angeles
+491,Mccoy-Sanders,Japanese,4.2,$$$$,New York
+492,Davidson-King,French,3.7,$$$,New York
+493,Shah and Sons,Indian,3.9,$$$$,San Francisco
+494,Knight Inc,Mexican,2.7,$$$$,San Francisco
+495,"Kennedy, Barton and Gomez",Chinese,2.6,$$,Los Angeles
+496,Smith LLC,Italian,4.2,$,Houston
+497,"Davis, Cunningham and Fisher",French,4.6,$$,New York
+498,Adams Ltd,Thai,4.5,$,San Francisco
+499,Stark-Coffey,French,3.9,$$$$,New York
+500,Baird-Brock,French,2.7,$,Los Angeles
