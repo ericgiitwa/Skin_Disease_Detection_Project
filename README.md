@@ -31,6 +31,13 @@ Poor infrastructure, including lack of roads and transportation options, further
 * Reduce costs to minimize unnecessary trips to doctors and biopsies.
 * Enhance patient outcomes by  supporting early detection of serious conditions like skin cancer.
 
+## Stakeholders
+* Patients in rural areas
+* Local clinics and hospitals
+* Health workers
+* Ministry of Health
+* NGOs and health orgs
+
 #### SOURCES: 
 https://www.africansahara.org/african-healthcare-systems-and-challenges/ 
 
