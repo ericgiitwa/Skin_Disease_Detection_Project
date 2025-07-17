@@ -1,4 +1,7 @@
 # Skin_Disease_Detection_Project
+
+![Uploading image.png…]()
+
 # About the Dataset:
 This dataset is a collection of images representing various skin diseases, categorized into 20  classes. It provides an invaluable resource for image classification tasks, particularly in the fields of dermatology and medical diagnostics.
 
