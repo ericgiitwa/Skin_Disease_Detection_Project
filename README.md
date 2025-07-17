@@ -86,6 +86,16 @@ To enhance performance, the following adjustments were made in the tuned model:
 - Even after tuning the accuracy improvement was marginal
 - Confusion matrix and classification reports showed poor class-level performance often predicting dominant classes only
 
+###  Model Limitations
+
+- **Low Accuracy**: Both base and tuned models showed poor training and validation accuracy indicating underfitting
+- **Class Imbalance**: The model struggled with uneven class distributions often favoring dominant classes despite using class weights
+- **Data Constraints**: Limited dataset size and diversity may have hindered the model's ability to generalize across all 19 classes
+- **Simplistic Architecture**: The custom CNN may not have been powerful enough to extract complex dermatological features
+- **Image Variability**: Differences in lighting, resolution and quality introduced noise the model couldn't effectively handle
+- **Overfitting Risk**: Deeper layers and tuning increased complexity without significantly improving validation performance
+
+
 ### Conclusion
 
 Despite implementing regularization and learning rate adjustments, both the base and tuned models struggled to generalize well. The limited performance may be due to high class imbalance, data complexity or insufficient training data. Future improvements could involve using more advanced architectures (Like transfer learning) or enriching the dataset with better quality and quantity of images
